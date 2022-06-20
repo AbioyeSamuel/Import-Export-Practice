@@ -1,2 +1,2 @@
 # Import-Export-Practice
-Created with CodeSandbox
+Import and export default of jsx files and functions
